@@ -1,0 +1,6 @@
+company_data/
+backups/
+restore_test/
+.idea/
+__pycache__/
+*.pyc
